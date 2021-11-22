@@ -26,9 +26,6 @@ function renderLicenseBadge(license) {
     case "MIT":
       return badge.MIT;
       break;
-    default:
-      return badge.MIT;
-      break;
   }
 
 }
@@ -45,11 +42,9 @@ function renderLicenseSection(license) {
   if(license){
     return `## License
 
-    ${renderLicenseLink(license)}
+${renderLicenseLink(license)}
 
-    ${renderLicenseBadge(license)}
-
-    
+${renderLicenseBadge(license)}
     `
   } else {
     return "";
@@ -71,9 +66,9 @@ ${data.description}
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
-* [Features](#Features)
-* [Contributing](#Contributing)
-* [Tests](#Tests)
+* [Features](#features)
+* [Contributing](#contributing)
+* [Tests](#tests)
 
 
 ## Installation

@@ -1,58 +1,49 @@
-# README.md Generator
+# Shark Tale
 
-## Description 
+## Description
 
-generates a README.md file using Node.js
-
+A definitive look into one of the early 2000's greatest animated features.
 
 ## Table of Contents
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-* [Features](#Features)
-* [Contributing](#Contributing)
-* [Tests](#Tests)
-
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Tests](#tests)
 
 ## Installation
 
-To install, run `npm install` after installation completes, run `node index.js` and follow prompts to generate the file. Once completed, the new readme will be generated in dist/README.md.
+Clone repository and run `npm install` in the terminal. Once complete run `node index.js` and follow the prompts to generate your README.md file.
 
+## Usage
 
-## Usage 
-
-
-
+Feel free to use, don't abuse.
 
 ## Credits
 
-
-
+Will Smith, Jack Black, Others..
 
 ## License
 
-    This project is licensed under the [Apache](https://opensource.org/licenses/Apache) license.
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
-    [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-    
-    
 ## Questions
-If you have any questions, please reach out to me at: [](mailto:) OR [github.com/](https://github.com/)
+
+If you have any questions, please reach out to me at: [cerihaf@gmail.com](mailto:cerihaf@gmail.com) OR [github.com/cerihaf](https://github.com/cerihaf)
 
 ## Features
 
-
-
+Director commentary, Bloopers, Theatrical Trailer
 
 ## Contributing
 
-
-
+Developed by Ceri Trammell
 
 ## Tests
 
-
-
+N/A
