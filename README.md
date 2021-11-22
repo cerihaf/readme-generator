@@ -2,7 +2,7 @@
 
 ## Description
 
-Node.js powered application that generates README files for projects
+Node.js powered application that generates README files for projects. Click here for a demo of the completed application. [Demo of completed application](https://drive.google.com/file/d/18bPXUtZsf91bgBC90e69NG2GEt_S2FIu/view?usp=sharing)
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ If you have any questions, please reach out to me at: [cerihaf@gmail.com](mailto
 
 ## Features
 
-undefined
+N/A
 
 ## Contributing
 
